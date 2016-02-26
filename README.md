@@ -1,4 +1,4 @@
-# XML (eXtensible Markup Language) Javascript component
+# Extensible Markup Language Javascript component
 provides Javascript constants and functions to process XML files/messages
 
 ## XML Data Types Reference
