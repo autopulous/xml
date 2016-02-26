@@ -1,0 +1,26 @@
+{
+  "name": "autopulous-xml",
+  "description": "eXtensible Markup Language",
+  "homepage": "http://www.vertexinc.com",
+  "license": "MIT",
+  "private": false,
+  "moduleType": "globals",
+  "main": "xml.js",
+  "ignore": [
+    "test",
+    "package.json",
+    ".bowerrc",
+    ".jshintrc",
+    ".gitignore",
+    "*.yml"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine.async": "^0.1.0"
+  },
+  "keywords": [
+    "XML"
+  ]
+}
+
+
